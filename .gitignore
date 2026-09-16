@@ -1,0 +1,11 @@
+# Local-only working files (build scripts, Spanish drafts, intermediate assets) — never pushed to GitHub
+local_only/
+
+# Office lock/temp files
+~$*.docx
+~$*.pptx
+~$*.xlsx
+
+# OS junk
+.DS_Store
+Thumbs.db
